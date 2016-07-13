@@ -93,8 +93,12 @@ baz | baz  | baz
 
 ##其他
 
-横线`---`
+横线 `---`
 
 ---
 
     pre 区域 tab*2
+
+站内应用地址`[dist](dist)`
+
+[dist](dist)
