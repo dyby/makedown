@@ -62,10 +62,10 @@ I get 10 times more traffic from [Google] [1] than from
 [引用](http://ww3.sinaimg.cn/large/687afc7fjw1dzs5oehlj5j.jpg)
 
 ##粗体和斜体
-斜体定义方式
-\*斜体* 
-粗体定义方式
-\*\*粗体**
+斜体定义方式<br>
+\*斜体* <br>
+粗体定义方式<br>
+\*\*粗体**<br>
 
 [粗体和斜体](http://ww4.sinaimg.cn/large/687afc7fjw1dzs5qrr3jcj.jpg)
 
