@@ -1,0 +1,3 @@
+公用文件JS目录
+PHP用常量:CDN_COMMON_LIBS_URL
+模板使用: {-$cdn_common_libs_url-}
