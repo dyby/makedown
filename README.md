@@ -2,7 +2,7 @@
 来自[简书](http://www.jianshu.com/p/q81RER)   [更加完整的介绍](http://wowubuntu.com/markdown/)
 
 ##标题
-简单的来说标题就是利用\#号来进行标记 \#的个数决定了标题的大小。
+简单的来说标题就是利用`#`号来进行标记 `#`的个数决定了标题的大小。
 <br>h1 ---> \# 
 <br>h2 ---> \#\#
 <br>h3 ---> \#\#\#
@@ -41,7 +41,7 @@
 >\[2]: http://search.yahoo.com/  "Yahoo Search" <br>
 >\[a]: http://search.msn.com/    "MSN Search" <br>
 
-使用格式 \[MSN]\[a] <br>
+使用格式 `[MSN][a]` <br>
 
 I get 10 times more traffic from [Google] [1] than from
 [Yahoo] [2] or [MSN] [a].
@@ -54,7 +54,7 @@ I get 10 times more traffic from [Google] [1] than from
 
 ##引用
 
-用符号\>定义引用
+用符号 `>` 定义引用
 
 >一盏灯， 一片昏黄； 一简书， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。
 > 保持淡定， 才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。
@@ -62,19 +62,22 @@ I get 10 times more traffic from [Google] [1] than from
 [引用](http://ww3.sinaimg.cn/large/687afc7fjw1dzs5oehlj5j.jpg)
 
 ##粗体和斜体
-斜体定义方式<br>
-\*斜体* <br>
-粗体定义方式<br>
-\*\*粗体**<br>
+
+斜体定义方式
+`*斜体*` 
+
+粗体定义方式
+`**粗体**`
+
 
 [粗体和斜体](http://ww4.sinaimg.cn/large/687afc7fjw1dzs5qrr3jcj.jpg)
 
 
 ##表格
 
-表格 分割 用 \| <br>
-表头与表体 分割 -----\|-----\|------<br>
-对齐  左\:---  中\:---\:  右---\:<br>
+表格 分割 用 `|` <br>
+表头与表体 分割 `-----|-----|------` <br>
+对齐  左 `:---`  中 `:---:`  右 `---:` <br>
 
 dog | bird | cat
 ----|------|----
